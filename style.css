@@ -19,7 +19,6 @@ h2 {
   font-weight: 700;
   font-size: 2.25rem;
   text-transform: capitalize;
-  font-family: var(--secondry-font);
   color: #43121d;
   line-height: 3rem;
 
@@ -27,7 +26,6 @@ h2 {
 
 h4 {
   color: #43121d;
-  font-family: var(--secondry-font);
   text-transform: capitalize;
   font-size: 18px;
   font-weight: 800;
@@ -37,7 +35,6 @@ h4 {
 h5 {
   color: #A82C48;
   text-transform: capitalize;
-  font-family: var(--secondry-font);
   font-size: 1rem;
   font-weight: 700;
   margin-bottom: 0.5rem;
@@ -150,7 +147,7 @@ p {
 
 .top-banner{
   width:100%;
-  background: url('../images/bg/bg-1.jpg') no-repeat center;
+  background: url('images/bg/bg-1.jpg') no-repeat center;
   background-size:cover;
   padding:16.875rem 0 9.375rem;
 }
@@ -200,7 +197,7 @@ p {
 .story-section{
   width:100%;
   height:28.125rem;
-  background: url('../images/bg/bg-2.jpg') no-repeat center;
+  background: url('images/bg/bg-2.jpg') no-repeat center;
   background-size: cover;
   padding-top:100px;
   text-align: center;
@@ -272,7 +269,7 @@ p {
 } 
 .book-food{
   width:100%;
-  background:url('../images/bg/bg-3.jpg') no-repeat center;
+  background:url('images/bg/bg-3.jpg') no-repeat center;
   background-size: cover;
   background-attachment: fixed;
   background-position:0 71.9125px;
